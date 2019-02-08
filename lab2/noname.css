@@ -1,0 +1,53 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'Verdana';
+}
+h1{
+	font-family: fantasy;
+	font-size: 30pt;
+	text-align: center;
+	color:inherit;
+	background-color: red;
+}
+h2{
+	font-family: monospace;
+	font-size: 25pt;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	color: white;
+
+}
+h5{
+	font-family: serif;
+	font-size: 20pt;
+	text-align: center;
+	color: white;
+	margin-bottom: 20px;
+	margin-top: 10px;
+}
+p{
+	font-family: sans-serif;
+	font-size: 15pt;
+	text-align: center;
+	color: black;
+	background-color: white;
+
+}
+ul{
+	padding: 0;
+	color: black;
+	color: white;
+}
+ol{
+	padding: 0;
+	color: black;
+	color: white;
+}
+body{
+	color: black;
+	background-color: black;
+}
+img{
+	margin:0;
+}
